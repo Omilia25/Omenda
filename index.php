@@ -384,7 +384,7 @@
         <div class="row">
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-1.jpg" alt="">
+              <img src="assets/img/team/team-1.JPG" alt="">
               <h4>CPA Julius Oduol</h4>
               <span>Chief Executive Officer</span>
               <p>
@@ -400,7 +400,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-2.jpg" alt="">
+              <img src="assets/img/team/team-1.JPG" alt="">
               <h4>CPA Julius Oduol</h4>
               <span>Chief Executive Officer</span>
               <p>
@@ -415,7 +415,7 @@
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-3.jpg" alt="">
+              <img src="assets/img/team/team-1.JPG" alt="">
               <h4>CPA Julius Oduol</h4>
               <span>Chief Executive Officer</span>
               <p>
