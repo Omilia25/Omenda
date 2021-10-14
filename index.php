@@ -430,7 +430,7 @@
 
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member">
-              <img src="assets/img/team/team-4.JPG" alt="">
+              <img src="assets/img/team/team-4.jpg" alt="">
               <h4>Lilian Adhiambo</h4>
               <span>Director of Administration</span>
               <p>
