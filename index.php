@@ -446,7 +446,7 @@
         </div>
 
       </div>
-    </section><!-- End Team Section -->
+    </section><!-- End Team Section NDALAT -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
